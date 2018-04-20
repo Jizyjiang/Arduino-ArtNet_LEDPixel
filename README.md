@@ -1,1 +1,2 @@
 # Arduino-ArtNet_LEDPixel
+Arduino接收Artnet信号，从而控制WS2811/2812灯条
